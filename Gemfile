@@ -21,6 +21,7 @@ group :assets do
 end
 
 group :development, :test do
+  gem 'rake'
   gem 'rspec'
   gem 'rspec-rails'
   gem 'simplecov', :require => false
