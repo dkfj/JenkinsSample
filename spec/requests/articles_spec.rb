@@ -16,6 +16,8 @@ describe "Articles" do
       #ensure
       #  driver.quit
       #end
+      sleep 2
+      driver.quit
 
     end
   end
