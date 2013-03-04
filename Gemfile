@@ -26,6 +26,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'simplecov', :require => false
   gem 'simplecov-rcov', :require => false
+  gem 'selenium-webdriver'
 end
 
 gem 'jquery-rails'

@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'selenium-webdriver'
 
 describe "Articles" do
   describe "GET /articles" do
